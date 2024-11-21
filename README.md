@@ -7,12 +7,14 @@ Backend: Node.js, Express.js
 Database: MongoDB
 Other: Firebase, SASS
 Tools: Git, Netlify, Vercel, Cursor
+
 Learning Goals:
- 
 Open to learning App Development and Artificial Intelligence to expand skills and create innovative solutions.
+
 Collaboration:
 I'm looking to collaborate on  full-stack MERN projects.
 Prefer open-source projects, but also interested in personal ones.
+
 Contact Information:
 Email: sheriffdeenmakinde@gmail.com
 Twitter: @MakindeShe7006
