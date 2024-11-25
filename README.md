@@ -17,7 +17,7 @@ Prefer open-source projects, but also interested in personal ones.
 
 Contact Information:
 Email: sheriffdeenmakinde@gmail.com
-Twitter: @MakindeShe7006
+Twitter: x.com/MakindeShe70076
 
 Fun Fact:
 I enjoy coding, learning new tech, and working on cool side projects. When I’m not developing web and mobile applications, I’m diving into artificial intelligence, and building solutions that make a difference.
