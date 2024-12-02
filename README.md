@@ -20,4 +20,4 @@ Email: sheriffdeenmakinde@gmail.com
 Twitter: x.com/MakindeShe70076
 
 Fun Fact:
-I enjoy coding, learning new tech, and working on cool side projects. When I’m not developing web and mobile applications, I’m diving into artificial intelligence, and building solutions that make a difference.
+I enjoy coding, learning new tech, and working on cool side projects that can make a difference in the real world. When I’m not developing web and mobile applications, I’m diving into artificial intelligence, and building solutions that make a difference.
