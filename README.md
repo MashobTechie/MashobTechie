@@ -2,7 +2,7 @@ Hi there 👋
 I'm Sheriffdeen Makinde, a full-stack web developer with a passion for creating scalable and efficient web applications. I focus on building impactful user experiences and solving complex backend challenges.
 
 Tech Stack:
-Frontend: HTML, CSS, JavaScript, React.js, Next.js, Context API, Tailwind CSS, Material UI, ShadCN
+Frontend: HTML, CSS, JavaScript, React.js, Next.js, Context API, Tailwind CSS, Material UI, ShadCN, chakra Ui
 Backend: Node.js, Express.js
 Database: MongoDB
 Other: Firebase, SASS
@@ -17,7 +17,7 @@ Prefer open-source projects, but also interested in personal ones.
 
 Contact Information:
 Email: sheriffdeenmakinde@gmail.com
-Twitter: x.com/MakindeShe70076
+Twitter: https://www.x.com/MakindeShe70076
 LinkedIn : https://www.linkedin.com/in/sheriffdeen-makinde-9688b1343/
 
 Fun Fact:
