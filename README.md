@@ -15,8 +15,7 @@ Collaboration:
 I'm looking to collaborate on  full-stack MERN projects.
 Prefer open-source projects, but also interested in personal ones.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MashobTechie&theme=radical)](https://git.io/streak-stats) 
-
+ 
 Contact Information:
 Email: sheriffdeenmakinde@gmail.com
 Twitter: https://www.x.com/MakindeShe70076
@@ -24,3 +23,7 @@ LinkedIn : https://www.linkedin.com/in/sheriffdeen-makinde-9688b1343/
 
 Fun Fact:
 I enjoy coding, learning new tech, and working on cool side projects that can make a difference in the real world. When I’m not developing web and mobile applications, I’m diving into artificial intelligence, and building solutions that make a difference.
+
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=MashobTechie&theme=dark&type=png)]
+ (https://git.io/streak-stats)
