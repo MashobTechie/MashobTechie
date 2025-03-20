@@ -15,6 +15,8 @@ Collaboration:
 I'm looking to collaborate on  full-stack MERN projects.
 Prefer open-source projects, but also interested in personal ones.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MashobTechie&theme=radical)](https://git.io/streak-stats) 
+
 Contact Information:
 Email: sheriffdeenmakinde@gmail.com
 Twitter: https://www.x.com/MakindeShe70076
