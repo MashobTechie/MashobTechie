@@ -18,7 +18,7 @@ Prefer open-source projects, but also interested in personal ones.
  
 Contact Information:
 Email: sheriffdeenmakinde@gmail.com
-Twitter: https://www.x.com/MakindeShe70076
+Twitter: https://www.x.com/MashobTechie
 LinkedIn : https://www.linkedin.com/in/sheriffdeen-makinde-9688b1343/
 
 Fun Fact:
