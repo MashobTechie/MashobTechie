@@ -100,8 +100,4 @@ When I’m not coding, I’m diving into **AI experiments with Python/R**, explo
 
 ---
 
-## 🐍 Contribution Graph Animation (Optional)
-
-<p align="center">
-  <img src="https://github.com/mashobtechie/mashobtechie/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+ 
