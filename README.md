@@ -67,9 +67,9 @@ I believe in **building in public**. Here’s what I’m currently focusing on:
 ## 📊 GitHub Stats  
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MashobTechie&show_icons=true&theme=radical" alt="Sheriffdeen's GitHub Stats" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashobTechie&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MashobTechie&theme=radical" alt="GitHub Streak" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MashobTechie&show_icons=true&theme=radical" alt="Sheriffdeen's GitHub Stats" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashobTechie&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MashobTechie&theme=radical" alt="GitHub Streak" height="200"/>
 
 </div>
 
