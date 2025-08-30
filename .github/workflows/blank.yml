@@ -1,0 +1,16 @@
+name: Update Readme Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          token: ${{ secrets.PAT_1 }}
