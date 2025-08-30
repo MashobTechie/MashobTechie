@@ -72,7 +72,7 @@ I believe in building in public. Here’s what I’m currently focusing on:
 
 💼 LinkedIn: linkedin.com/in/sheriffdeen-makinde-9688b1343
 
-🐦 Twitter/X: @mashob_techie
+🐦 Twitter/X: x.com/mashob_techie
 
 💡 Open to collaborations on full-stack MERN, mobile apps, or AI-driven projects.
 Let’s build something amazing together! 🚀
