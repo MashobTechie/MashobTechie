@@ -1,16 +1,19 @@
-name: Update Readme Stats
+name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # Runs once daily at midnight UTC
+  workflow_dispatch:       # Allow manual trigger from Actions tab
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - name: Generate Stats
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats
         uses: anuraghazra/github-readme-stats@master
         with:
           token: ${{ secrets.PAT_1 }}
