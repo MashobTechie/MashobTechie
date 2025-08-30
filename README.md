@@ -65,7 +65,7 @@ I believe in building in public. Here’s what I’m currently focusing on:
 🔹 Experimenting with Mobile App Development using React Native + Expo
 
 📊 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"> <img src="https://github-readme-stats.vercel.app/api?username=mashobtechie&show_icons=true&theme=radical" alt="Sheriffdeen's GitHub Stats" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashobtechie&layout=compact&theme=radical" alt="Top Languages" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashobtechie&theme=radical" alt="GitHub Streak" height="150"/> </div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"> <img src="https://github-readme-stats.vercel.app/api?username=mashobtechie&show_icons=true&theme=radical&count_private=true" alt="Sheriffdeen's GitHub Stats" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashobtechie&layout=compact&theme=radical&count_private=true" alt="Top Languages" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashobtechie&theme=radical&count_private=true" alt="GitHub Streak" height="150"/> </div>
 🤝 Let’s Connect!
 
 📧 Email: sheriffdeenmakinde@gmail.com
