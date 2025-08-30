@@ -84,6 +84,4 @@ When I’m not coding, I’m probably diving into **AI experiments**, exploring 
 ✨ *“Code, Learn, Repeat — until impact is inevitable.”*  
 
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MashobTechie)](https://git.io/streak-stats)
+ 
