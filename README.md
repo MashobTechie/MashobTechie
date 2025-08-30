@@ -47,18 +47,23 @@ Currently, I’m working on **CampusCart**, a SaaS marketplace for students, whi
 
 ---
 
- 
-
 ## 📈 Learning & Growth  
 I believe in **building in public**. Here’s what I’m currently focusing on:  
 - 🔹 Mastering **Data Structures & Algorithms (DSA)**  
 - 🔹 Exploring **System Design principles**  
 - 🔹 Expanding into **AI/ML with Python & R**  
-- 🔹 Experimenting with **App Development**  
+- 🔹 Experimenting with **App Development with ReactNative and Expo**  
 
  
 
- 
+---
+
+## 📊 GitHub Stats  
+
+![Sheriffdeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MashobTechie&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MashobTechie&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MashobTechie&theme=radical)  
+
 ---
 
 ## 🤝 Let’s Connect!  
@@ -77,6 +82,7 @@ When I’m not coding, I’m probably diving into **AI experiments**, exploring 
 ---
 
 ✨ *“Code, Learn, Repeat — until impact is inevitable.”*  
+
 
 
 
