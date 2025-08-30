@@ -58,12 +58,7 @@ I believe in **building in public**. Here’s what I’m currently focusing on:
 
  
 
-## 📊 GitHub Stats  
-
-![Sheriffdeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashob&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashob&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mashob&theme=radical)  
-
+ 
 ---
 
 ## 🤝 Let’s Connect!  
