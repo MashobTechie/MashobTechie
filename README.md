@@ -73,11 +73,11 @@ I believe in **building in public**. Here’s what I’m currently focusing on:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mashobtechie&show_icons=true&theme=radical&count_private=true" alt="Sheriffdeen's GitHub Stats" height="160"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=mashobtechie&show_icons=true&theme=radical&count_private=true](https://github-readme-stats.vercel.app/api?username=mashobtechie&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=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)" alt="Sheriffdeen's GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashobtechie&layout=compact&theme=radical&count_private=true" alt="Top Languages" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashobtechie&theme=radical&count_private=true" alt="GitHub Streak" height="160"/>
 </p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mashobtechie&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=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)
+ 
 
 ---
 
