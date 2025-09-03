@@ -72,7 +72,8 @@ I believe in **building in public**. Here’s what I’m currently focusing on:
 
 ## 📊 GitHub Stats  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mashobtechie&show_icons=true&theme=radical" alt="Sheriffdeen's GitHub Stats" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashobtechie&layout=compact&theme=radical" alt="Top Languages" height="160"/><img src="https://streak-stats.demolab.com?user=mashobtechie&theme=radical&type=png&v=2" height="160" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mashobtechie&show_icons=true&theme=radical" alt="Sheriffdeen's GitHub Stats" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashobtechie&layout=compact&theme=radical" alt="Top Languages" height="160"/>[![GitHub Streak](https://streak-stats.demolab.com?user=mashobtechie&theme=radical&type=png&v=3)](https://git.io/streak-stats)
+
 
  </p>
 
