@@ -1,28 +1,26 @@
 # Hi, I’m Sheriffdeen Makinde 👋
 
-Software Engineer with a strong interest in **backend systems, data-driven workflows, and applied AI infrastructure**.
+Software Engineer focused on **backend systems, internal tools, and data-driven AI workflows**.
 
-I focus on building **reliable, production-oriented tools** — not just demos.
+I build reliable, production-oriented systems — not just demos.
 
 ---
 
 ## About Me
 
-I’m currently a **Data & AI Operations Intern at OBAI**, where I work on insurance automation workflows involving data annotation, validation, structured parsing, and internal analytics tooling.
+I’m currently a **Software Engineer at OBAI**, where I work across **data operations, internal tooling, and engineering support** for insurance-focused AI products.
 
-Beyond annotation, I’ve built **internal data tools** to generate reproducible statistics, audit-ready CSV outputs, and dashboards — helping teams operate effectively without expensive enterprise tooling.
+My work includes:
+- Building internal tools for dataset statistics, validation, and reporting
+- Supporting AI workflows through structured data processing and quality checks
+- Writing engineering code that connects data pipelines, dashboards, and backend services
 
-I’ve also built and contributed to **backend-heavy projects** across SaaS products, internal tools, and marketplaces, handling:
-- API design
-- authentication & authorization
-- data modeling
-- system glue code
-- deployment workflows
+I’ve designed tools that generate **reproducible statistics, audit-ready CSV outputs, and web dashboards**, allowing teams to operate efficiently without relying on expensive enterprise platforms.
 
-My background in **Statistics** strongly shapes how I think:
+Outside of OBAI, I’ve built and contributed to **backend-heavy projects** across SaaS products, internal systems, and marketplaces — handling APIs, authentication, data modeling, and deployment.
+
+My background in **Statistics** influences how I think about systems:
 I care about correctness, edge cases, and decisions backed by data rather than assumptions.
-
-I enjoy working on systems that solve real operational problems.
 
 ---
 
@@ -49,7 +47,7 @@ I enjoy working on systems that solve real operational problems.
 - PostgreSQL  
 - Firebase  
 - Supabase  
-- CSV / data pipeline tooling
+- CSV-based data pipelines
 
 ### DevOps & Systems
 - Linux (Ubuntu)  
@@ -63,11 +61,11 @@ I enjoy working on systems that solve real operational problems.
 
 ## Current Focus
 
+- Building and maintaining internal engineering tools  
 - Designing reliable backend systems  
-- Building internal tools for data & AI workflows  
+- Applying statistics to real-world AI workflows  
 - Strengthening system design fundamentals  
-- Applying statistics to real-world product decisions  
-- Writing clearer, more maintainable code  
+- Writing cleaner, more maintainable code  
 
 I value steady progress over hype.
 
@@ -76,8 +74,8 @@ I value steady progress over hype.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MashobTechie&show_icons=true&count_private=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashobTechie&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MashobTehie&show_icons=true&count_private=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashobTehie&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
@@ -88,7 +86,7 @@ I value steady progress over hype.
 - 💼 LinkedIn: https://www.linkedin.com/in/sheriffdeen-makinde-9688b1343  
 - 🐦 X: https://x.com/mashob_techie  
 
-I’m open to thoughtful collaborations on **backend systems, internal tools, and data-driven products**.
+I’m open to collaborations on **backend systems, internal tools, and data-driven AI products**.
 
 ---
 
