@@ -1,82 +1,94 @@
 # Hi, I’m Sheriffdeen Makinde 👋
 
-Software engineer with a strong interest in scalable systems, data-driven workflows, and practical AI applications.
+Software Engineer with a strong interest in **backend systems, data-driven workflows, and applied AI infrastructure**.
+
+I focus on building **reliable, production-oriented tools** — not just demos.
 
 ---
 
-## About
+## About Me
 
-I’m currently working as a **Data & AI Operations Intern at OBAI**, where I contribute to insurance automation workflows through data annotation, refinement, and structured parsing. The role has strengthened how I think about data quality, system reliability, and how real-world constraints shape AI-powered products.
+I’m currently a **Data & AI Operations Intern at OBAI**, where I work on insurance automation workflows involving data annotation, validation, structured parsing, and internal analytics tooling.
 
-Outside of OBAI, I’ve built and contributed to multiple production-leaning projects across SaaS, internal tools, and marketplaces — handling backend logic, APIs, authentication, data modeling, and deployment.
+Beyond annotation, I’ve built **internal data tools** to generate reproducible statistics, audit-ready CSV outputs, and dashboards — helping teams operate effectively without expensive enterprise tooling.
 
-My background in **statistics** influences how I design systems: I care about edge cases, correctness, and decisions backed by data rather than assumptions.
+I’ve also built and contributed to **backend-heavy projects** across SaaS products, internal tools, and marketplaces, handling:
+- API design
+- authentication & authorization
+- data modeling
+- system glue code
+- deployment workflows
 
-I enjoy working on products that solve operational problems — not just demos.
+My background in **Statistics** strongly shapes how I think:
+I care about correctness, edge cases, and decisions backed by data rather than assumptions.
+
+I enjoy working on systems that solve real operational problems.
 
 ---
 
 ## Tech Stack
 
-**Languages**
-- JavaScript
-- TypeScript  
+### Languages
+- JavaScript / TypeScript  
 - Python  
 - R  
 
-**Frontend**
+### Frontend
 - React  
 - Next.js  
 - Tailwind CSS  
 - React Native (Expo)
 
-**Backend**
+### Backend & APIs
 - Node.js  
 - Express.js  
 - RESTful APIs  
 
-**Databases & Services**
+### Databases & Data
 - MongoDB  
+- PostgreSQL  
 - Firebase  
-- PostgreSQL
-- Supabase
+- Supabase  
+- CSV / data pipeline tooling
 
-**Tools**
+### DevOps & Systems
+- Linux (Ubuntu)  
 - Git & GitHub  
+- Docker  
 - Vercel  
 - Netlify  
-- Linux-based development environment  
+- Local LLM tooling (Ollama)
 
 ---
 
 ## Current Focus
 
-- Building reliable backend systems
-- Learning system design fundamentals
-- Improving data handling for AI-supported workflows
-- Strengthening problem-solving with DSA
-- Writing cleaner, more maintainable code
+- Designing reliable backend systems  
+- Building internal tools for data & AI workflows  
+- Strengthening system design fundamentals  
+- Applying statistics to real-world product decisions  
+- Writing clearer, more maintainable code  
 
-I prefer steady progress over hype.
+I value steady progress over hype.
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mashobtechie&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashobtechie&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MashobTechie&show_icons=true&count_private=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashobTechie&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
 
 ## Connect
 
-- Email: **sheriffdeenmakinde@gmail.com**  
-- LinkedIn: https://www.linkedin.com/in/sheriffdeen-makinde-9688b1343  
-- X: https://x.com/mashob_techie  
+- 📧 Email: **sheriffdeenmakinde@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/sheriffdeen-makinde-9688b1343  
+- 🐦 X: https://x.com/mashob_techie  
 
-I’m open to thoughtful collaborations on backend-heavy products and data-driven systems.
+I’m open to thoughtful collaborations on **backend systems, internal tools, and data-driven products**.
 
 ---
 
