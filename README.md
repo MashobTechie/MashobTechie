@@ -70,14 +70,13 @@ I value steady progress over hype.
 
 ---
 
-[![committers.top badge](https://user-badge.committers.top/nigeria_private/MashobTechie.svg)](https://user-badge.committers.top/nigeria_private/MashobTechie)
-
+ 
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MashobTehie&show_icons=true&count_private=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashobTehie&layout=compact&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MashobTechie&show_icons=true&count_private=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashobTechie&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
