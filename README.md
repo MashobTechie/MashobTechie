@@ -1,24 +1,31 @@
-# Hi, I’m Sheriffdeen Makinde 👋
+# Hi, I'm Sheriffdeen Makinde 👋
 
-**Software Engineer** focused on backend systems, internal tools, and data-driven AI workflows.  
+**Software Engineer** focused on backend systems, internal tools, and data-driven AI workflows.
 I build reliable, production-oriented systems.
 
 ---
 
 ## 👨🏽‍💻 About Me
 
-I’m currently a **Software Engineer at OBAI**, where I work across **data operations, internal tooling, and engineering support** for insurance-focused AI products.
+I'm currently a **Software Engineer at OBAI**, a US insurtech startup, where I work across **data operations, internal tooling, and engineering support** for insurance-focused AI products.
 
 My work includes:
 - Building internal tools for dataset statistics, validation, and reporting
 - Supporting AI workflows through structured data processing and quality checks
 - Writing engineering code that connects data pipelines, dashboards, and backend services
 
-I’ve designed tools that produce **reproducible statistics, audit-ready CSV outputs, and web dashboards**, enabling teams to move fast without relying on enterprise-only platforms.
+I've designed tools that produce **reproducible statistics, audit-ready CSV outputs, and web dashboards**, enabling teams to move fast without relying on enterprise-only platforms.
 
 Outside of OBAI, I build and contribute to **backend-heavy systems** across SaaS products, internal tools, and marketplaces — handling APIs, authentication, data modeling, and deployment.
 
 With a background in **Statistics**, I prioritize correctness, edge cases, and decisions backed by data — not assumptions.
+
+---
+
+## 🚀 Projects
+
+- **Respora** — Cofounder & engineer. A verified-respondent recruitment platform connecting researchers with real, verified respondents across Africa, with a growing B2B and self-serve base.
+ 
 
 ---
 
@@ -60,17 +67,15 @@ With a background in **Statistics**, I prioritize correctness, edge cases, and d
 
 ## 🎯 Current Focus
 
-- Building and maintaining internal engineering tools  
-- Designing reliable backend systems  
-- Applying statistics to real-world AI workflows  
-- Strengthening system design fundamentals  
-- Writing cleaner, more maintainable code  
+- Growing Respora's researcher and respondent base
+- Building and maintaining internal engineering tools
+- Designing reliable backend systems
+- Applying statistics to real-world AI workflows
+- Strengthening system design fundamentals
 
 I value steady progress over hype.
 
 ---
-
- 
 
 ## 📊 GitHub Stats
 
@@ -83,11 +88,11 @@ I value steady progress over hype.
 
 ## 🤝 Connect
 
-- 📧 **Email:** sheriffdeenmakinde@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sheriffdeen-makinde-9688b1343  
-- 🐦 **X:** https://x.com/mashob_techie  
+- 📧 **Email:** sheriffdeenmakinde@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sheriffdeen-makinde-9688b1343
+- 🐦 **X:** https://x.com/mashob_techie
 
-I’m open to collaborations on **backend systems, internal tools, and data-driven AI products**.
+I'm open to collaborations on **backend systems, internal tools, and data-driven AI products**.
 
 ---
 
