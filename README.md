@@ -1,31 +1,31 @@
 # Hi, I'm Sheriffdeen Makinde 👋
 
-**Software Engineer** focused on backend systems, internal tools, and data-driven AI workflows.
-I build reliable, production-oriented systems.
+**Full-Stack & AI Infrastructure Engineer** — backend systems, data infrastructure, and AI-product engineering.
+I build systems that hold up when nobody's watching: idempotent payments, temporal data models, race-safe inventory.
 
 ---
 
 ## 👨🏽‍💻 About Me
 
-I'm currently a **Software Engineer at OBAI**, a US insurtech startup, where I work across **data operations, internal tooling, and engineering support** for insurance-focused AI products.
+I'm a **Junior Engineer at Obai**, a US-based AI-powered automotive insurance startup, where I own the memory service behind **Otto**, an AI companion for policy Q&A, vehicle diagnostics, valuations and claims.
 
-My work includes:
-- Building internal tools for dataset statistics, validation, and reporting
-- Supporting AI workflows through structured data processing and quality checks
-- Writing engineering code that connects data pipelines, dashboards, and backend services
+Recent work there includes:
+- Designing a bi-temporal data model 
+- Benchmarking Graphiti on FalkorDB against Postgres 
+- Cutting LLM context payload by ~70% through tiered token budgeting
+ 
+I'm also **Co-Founder & CTO of Respora**, a verified-respondent recruitment platform live in Nigeria with 3,400+ registered users and zero paid acquisition.
 
-I've designed tools that produce **reproducible statistics, audit-ready CSV outputs, and web dashboards**, enabling teams to move fast without relying on enterprise-only platforms.
-
-Outside of OBAI, I build and contribute to **backend-heavy systems** across SaaS products, internal tools, and marketplaces — handling APIs, authentication, data modeling, and deployment.
-
-With a background in **Statistics**, I prioritize correctness, edge cases, and decisions backed by data — not assumptions.
+I have a background in **Statistics** (University of Ibadan), so I default to checking edge cases and backing decisions with numbers rather than assumptions.
 
 ---
 
 ## 🚀 Projects
 
-- **Respora** — Cofounder & engineer. A verified-respondent recruitment platform connecting researchers with real, verified respondents across Africa, with a growing B2B and self-serve base.
- 
+- **[Respora](https://respora.example)** — Co-founder & CTO. Verified-respondent recruitment platform connecting researchers with real, verified respondents across Nigeria; 3,400+ users, live Paystack payments, zero paid acquisition.
+- **[HairByBash](https://hairbybash.ca)** — Online booking system for a hair business. Next.js, Supabase, Stripe.
+- **[HeirsSure Clarity](https://heirssure-clarity.vercel.app)** — AI-powered demo platform helping Nigerian insurance consumers understand claims and legal rights over WhatsApp: intent detection, bilingual (English/Pidgin) responses, a compliance dashboard tracking the 90-day settlement rule, and a transparency panel showing what drove each response.
+- **FPL Assistant** *(in development)* — Fantasy Premier League gameweek analysis that separates arithmetic from judgment: a deterministic engine projects expected points from xG/xA and fixtures, an optimizer solves the legal starting XI, and an LLM reasons over those fixed numbers for captaincy and transfer calls without inventing stats.
 
 ---
 
@@ -35,43 +35,36 @@ With a background in **Statistics**, I prioritize correctness, edge cases, and d
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react)
 
-### Backend & APIs
+### Backend & Data
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
-![REST API](https://img.shields.io/badge/REST-005571?style=flat)
-
-### Databases & Data
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
-![CSV](https://img.shields.io/badge/CSV-000000?style=flat&logo=files)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### DevOps & Systems
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### Infrastructure & Payments
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+![Paystack](https://img.shields.io/badge/Paystack-00C3F7?style=flat)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
 ---
 
 ## 🎯 Current Focus
 
+- Owning Otto's memory and data layer at Obai
 - Growing Respora's researcher and respondent base
-- Building and maintaining internal engineering tools
-- Designing reliable backend systems
-- Applying statistics to real-world AI workflows
-- Strengthening system design fundamentals
+- Deepening DSA and system design through weekly case studies
+- Building in public: writing up real engineering decisions, including the ones that didn't work
 
 I value steady progress over hype.
 
@@ -92,7 +85,7 @@ I value steady progress over hype.
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sheriffdeen-makinde-9688b1343
 - 🐦 **X:** https://x.com/mashob_techie
 
-I'm open to collaborations on **backend systems, internal tools, and data-driven AI products**.
+Open to collaborating on backend systems, AI infrastructure, and data-driven products.
 
 ---
 
