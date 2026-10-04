@@ -7,7 +7,7 @@ I build systems that hold up when nobody's watching: idempotent payments, tempor
 
 ## 👨🏽‍💻 About Me
 
-I'm a **Junior Engineer at Obai**, a US-based AI-powered automotive insurance startup, where I own the memory service behind **Otto**, an AI companion for policy Q&A, vehicle diagnostics, valuations and claims.
+I'm a **Software Engineer at Obai**, a US-based AI-powered automotive insurance startup, where I own the memory service behind **Otto**, an AI companion for policy Q&A, vehicle diagnostics, valuations and claims.
 
 Recent work there includes:
 - Designing a bi-temporal data model 
