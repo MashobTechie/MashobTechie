@@ -22,7 +22,7 @@ I have a background in **Statistics** (University of Ibadan), so I default to ch
 
 ## 🚀 Projects
 
-- **[Respora](https://respora.example)** — Co-founder & CTO. Verified-respondent recruitment platform connecting researchers with real, verified respondents across Nigeria; 3,400+ users, live Paystack payments, zero paid acquisition.
+- **[Respora](https://respora.app)** — Co-founder & CTO. Verified-respondent recruitment platform connecting researchers with real, verified respondents across Nigeria; 3,400+ users, live Paystack payments, zero paid acquisition.
 - **[HairByBash](https://hairbybash.ca)** — Online booking system for a hair business. Next.js, Supabase, Stripe.
 - **[HeirsSure Clarity](https://heirssure-clarity.vercel.app)** — AI-powered demo platform helping Nigerian insurance consumers understand claims and legal rights over WhatsApp: intent detection, bilingual (English/Pidgin) responses, a compliance dashboard tracking the 90-day settlement rule, and a transparency panel showing what drove each response.
 - **FPL Assistant** *(in development)* — Fantasy Premier League gameweek analysis that separates arithmetic from judgment: a deterministic engine projects expected points from xG/xA and fixtures, an optimizer solves the legal starting XI, and an LLM reasons over those fixed numbers for captaincy and transfer calls without inventing stats.
