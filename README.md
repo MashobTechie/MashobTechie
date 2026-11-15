@@ -1,31 +1,43 @@
 # Hi, I'm Sheriffdeen Makinde 👋
 
-**Full-Stack & AI Infrastructure Engineer** — backend systems, data infrastructure, and AI-product engineering.
-I build systems that hold up when nobody's watching: idempotent payments, temporal data models, race-safe inventory.
+**Full-Stack & AI Infrastructure Engineer** focused on backend systems, AI evaluation, data infrastructure, and production engineering.
+
+I build systems that hold up when nobody's watching: reliable APIs, idempotent workflows, temporal data models, race-safe operations, and AI systems that can be tested, measured, and trusted.
 
 ---
 
 ## 👨🏽‍💻 About Me
 
-I'm a **Software Engineer at Obai**, a US-based AI-powered automotive insurance startup, where I own the memory service behind **Otto**, an AI companion for policy Q&A, vehicle diagnostics, valuations and claims.
+I'm a **Software Engineer at OBAI**, a US-based AI-powered automotive technology and insurance startup. I've worked on the infrastructure behind **Otto**, an AI companion supporting policy Q&A, vehicle diagnostics, valuations, and claims.
 
-Recent work there includes:
-- Designing a bi-temporal data model 
-- Benchmarking Graphiti on FalkorDB against Postgres 
-- Cutting LLM context payload by ~70% through tiered token budgeting
- 
-I'm also **Co-Founder & CTO of Respora**, a verified-respondent recruitment platform live in Nigeria with 3,400+ registered users and zero paid acquisition.
+My engineering work has included:
 
-I have a background in **Statistics** (University of Ibadan), so I default to checking edge cases and backing decisions with numbers rather than assumptions.
+- Designing a bi-temporal data model for tracking facts and their historical validity.
+- Benchmarking Graphiti across FalkorDB and PostgreSQL, identifying database-specific query planner issues.
+- Building a multi-layer memory architecture with access controls and auditability.
+- Reducing LLM context payloads by approximately 70% through tiered context loading and token budgeting.
+- Building and running automated end-to-end tests for memory workflows.
+- Improving production reliability through additive integrations, observability, and performance measurement.
+
+I'm currently expanding my responsibilities across **AI evaluation, quality engineering, end-to-end testing, backend verification, and business strategy** — helping ensure that AI-powered features behave as intended, meet measurable standards, and work reliably as part of a larger product.
+
+I'm also **Co-Founder & CTO of [Respora](https://respora.app)**, a Nigerian verified-respondent recruitment platform connecting researchers with real respondents. We've grown to 5k  registered users without paid acquisition, and I'm focused on building the technology and commercial infrastructure needed to scale.
+
+
+
+My background in Statistics shapes how I approach engineering: question assumptions, examine edge cases, measure outcomes, and make decisions based on evidence.
 
 ---
 
 ## 🚀 Projects
 
-- **[Respora](https://respora.app)** — Co-founder & CTO. Verified-respondent recruitment platform connecting researchers with real, verified respondents across Nigeria; 3,400+ users, live Paystack payments, zero paid acquisition.
-- **[HairByBash](https://hairbybash.ca)** — Online booking system for a hair business. Next.js, Supabase, Stripe.
-- **[HeirsSure Clarity](https://heirssure-clarity.vercel.app)** — AI-powered demo platform helping Nigerian insurance consumers understand claims and legal rights over WhatsApp: intent detection, bilingual (English/Pidgin) responses, a compliance dashboard tracking the 90-day settlement rule, and a transparency panel showing what drove each response.
-- **FPL Assistant** *(in development)* — Fantasy Premier League gameweek analysis that separates arithmetic from judgment: a deterministic engine projects expected points from xG/xA and fixtures, an optimizer solves the legal starting XI, and an LLM reasons over those fixed numbers for captaincy and transfer calls without inventing stats.
+- **[Respora](https://respora.app)** — Co-Founder & CTO. A verified-respondent recruitment platform connecting researchers with respondents across Nigeria. Thousands of registered users, live payment infrastructure, and organic growth without paid acquisition.
+
+- **[HairByBash](https://hairbybash.ca)** — An online booking platform for a hair business, built with Next.js, Supabase, and Stripe.
+
+- **[HeirsSure Clarity](https://heirssure-clarity.vercel.app)** — An AI-powered demonstration platform helping Nigerian insurance consumers understand claims and legal rights over WhatsApp. Features intent detection, bilingual English/Pidgin responses, a compliance dashboard tracking the 90-day settlement rule, and response transparency.
+
+- **FPL Assistant** *(in development)* — A Fantasy Premier League analysis engine that separates deterministic calculations from LLM reasoning. It projects expected points using xG/xA and fixture data, optimizes legal starting XIs, and uses an LLM for captaincy and transfer analysis without inventing statistics.
 
 ---
 
@@ -50,6 +62,9 @@ I have a background in **Statistics** (University of Ibadan), so I default to ch
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+### AI & Quality Engineering
+AI evaluation · LLM testing · RAG systems · Agentic workflows · Prompt evaluation · End-to-end testing · API testing · Test automation
+
 ### Infrastructure & Payments
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
@@ -61,12 +76,12 @@ I have a background in **Statistics** (University of Ibadan), so I default to ch
 
 ## 🎯 Current Focus
 
-- Owning Otto's memory and data layer at Obai
-- Growing Respora's researcher and respondent base
-- Deepening DSA and system design through weekly case studies
-- Building in public: writing up real engineering decisions, including the ones that didn't work
+- **Production engineering:** Building and maintaining reliable backend and AI-powered systems at OBAI.
+- **AI quality engineering:** Developing evaluation standards, automated testing workflows, and quality benchmarks for AI features.
+- **Entrepreneurship:** Growing Resp​​ora through better product execution, customer acquisition, and sustainable revenue.
+- **Engineering depth:** Building practical expertise in AI infrastructure, distributed systems, observability, and production software.
 
-I value steady progress over hype.
+I believe in learning by building, measuring what matters, and finishing what I start.
 
 ---
 
@@ -85,7 +100,7 @@ I value steady progress over hype.
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sheriffdeen-makinde-9688b1343
 - 🐦 **X:** https://x.com/mashob_techie
 
-Open to collaborating on backend systems, AI infrastructure, and data-driven products.
+Open to collaborating on backend systems, AI infrastructure, quality engineering, and data-driven products.
 
 ---
 
